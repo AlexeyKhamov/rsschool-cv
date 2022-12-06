@@ -1,4 +1,4 @@
-![Image alt](https://avatars.githubusercontent.com/u/118840759?…00&u=71225dc3282c5f8126fc10900788f1e34f2c865c&v=4)
+![](https://avatars.githubusercontent.com/u/118840759?…00&u=71225dc3282c5f8126fc10900788f1e34f2c865c&v=4)
 ### Alexey Khamov
 ***
 ##### alxchmw@gmail.com, Krakow, Polska
