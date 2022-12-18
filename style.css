@@ -165,7 +165,7 @@
 .main-container2 {
     flex-wrap: wrap;
     margin-left: 0%;
-    margin-top: 0%;
+    margin-top: 10%;
     margin-left: 0%;
   }
 
@@ -180,6 +180,28 @@
     padding: 1%;
     
 }
+
+.main-container3 {
+  flex-wrap: wrap;
+  margin-left: 0%;
+  margin-top: 30%;
+  margin-left: 0%;
+  background-color:  #666666;
+  padding: 0;
+  text-align: left;
+}
+
+.title10 {
+ 
+  font-size: 15px; 
+  color: rgb(255, 255, 255);
+  margin-right: 0%;
+  margin-bottom: 0px;
+  margin-top: 0%;
+  text-align: left ;
+  
+}
+
 
 
 
